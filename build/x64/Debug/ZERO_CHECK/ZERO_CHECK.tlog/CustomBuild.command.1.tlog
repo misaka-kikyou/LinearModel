@@ -1,0 +1,10 @@
+^C:\USERS\USTCL\DESKTOP\MATLAB_LINEAR\BUILD\CMAKEFILES\DD8909106E91C20AECB93864E669D121\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ustcl/Desktop/matlab_linear -BC:/Users/ustcl/Desktop/matlab_linear/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ustcl/Desktop/matlab_linear/build/matlablinear.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

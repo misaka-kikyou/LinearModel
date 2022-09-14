@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ustcl\Desktop\matlab_linear\build\CMakeFiles\dd8909106e91c20aecb93864e669d121\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6A0A81F4-B94E-3B91-AAF0-F44F9A0B982F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
